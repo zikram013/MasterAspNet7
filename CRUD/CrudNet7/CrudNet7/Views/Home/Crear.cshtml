@@ -1,0 +1,52 @@
+﻿@model Contacto
+@{
+    ViewData["Title"] = "Crear Nuevo Contacto";
+}
+
+<h1 class="text-center">Contacto con .NET 7 (.NET Core MVC)</h1>
+
+<div class="row">
+    <div class="offset-12">
+        <div class="card border">
+            <div class="card-header bg-dark">
+                <h3 class="text-white"><strong>Crear Usuario</strong></h3>
+            </div>
+            <div class="card-body">
+               <form asp-action="Crear" method="POST">
+                   <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                   <div class="form-group">
+                       <label asp-for="Name" class="control-label"></label>
+                        <input asp-for="Name" class="form-control" placeholder="Ingresa el nombre" />
+                        <span asp-validation-for="Name" class="text-danger"></span>
+                   </div>
+
+                    <div class="form-group">
+                        <label asp-for="NumberPhone" class="control-label"></label>
+                        <input asp-for="NumberPhone" class="form-control" placeholder="Ingresa el teléfono" />
+                        <span asp-validation-for="NumberPhone" class="text-danger"></span>
+                    </div>
+
+
+                    <div class="form-group">
+                       <label asp-for="TypePhone" class="control-label"></label>
+                        <input asp-for="TypePhone" class="form-control" placeholder="Ingresa el celular" />
+                        <span asp-validation-for="TypePhone" class="text-danger"></span>
+                   </div>
+
+                   <div class="form-group">
+                       <label asp-for="Email" class="control-label"></label>
+                       <input asp-for="Email" class="form-control" placeholder="Ingresa el email" />
+                       <span asp-validation-for="Email" class="text-danger"></span>
+                   </div>                  
+
+                   <div class="form-group mt-3">
+                        <button type="submit" class="btn btn-secondary d-block mx-auto"><i class="bi bi-person-fill"></i>Crear Usuario</button>
+                   </div>
+               </form>
+                <a asp-controller="Inicio" asp-action="Index">Volver</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+                               
