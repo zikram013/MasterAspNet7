@@ -1,0 +1,28 @@
+﻿<div class="container mt-4">
+    <div class="row">
+        <div class="col-8">
+            <h2 class="text-primary">Lista de Sliders</h2>
+        </div>
+        <div class="col-4 text-right">
+            <a asp-action="Create" class="btn btn-primary"><i class="fas fa-plus"></i> Crear Nueva Slider</a>
+        </div>
+    </div>
+
+    <br />
+    <br />
+    <table id="tblSliders" class="table table-striped table-bordered" style="width:100%">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Nombre</th>
+                <th>Estado</th>                
+                <th>Acciones</th>
+            </tr>
+        </thead>
+    </table>
+
+</div>
+
+@section Scripts{
+            <script src="~/js/slider.js"></script>
+}

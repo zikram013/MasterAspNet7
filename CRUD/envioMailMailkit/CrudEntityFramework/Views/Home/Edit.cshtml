@@ -1,0 +1,51 @@
+﻿@model CrudEntityFramework.Models.Usuario
+
+@{
+    ViewData["Title"] = "Editar nuevo usuario";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1 class="text-center">CRUD Usuarios</h1>
+
+<hr />
+<div class="row">
+    <div class="col-12">
+        <div class="card border">
+            <div class="card-header">
+                <h3><strong>Editar usuario</strong></h3>
+            </div>
+        </div>
+        <div class="card-body">
+            <form asp-action="Edit">
+                <input type="hidden" value="Id" />
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="form-group">
+                    <label asp-for="Nombre" class="control-label"></label>
+                    <input asp-for="Nombre" class="form-control" />
+                    <span asp-validation-for="Nombre" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Telefono" class="control-label"></label>
+                    <input asp-for="Telefono" class="form-control" />
+                    <span asp-validation-for="Telefono" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Celular" class="control-label"></label>
+                    <input asp-for="Celular" class="form-control" />
+                    <span asp-validation-for="Celular" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Email" class="control-label"></label>
+                    <input asp-for="Email" class="form-control" />
+                    <span asp-validation-for="Email" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <button type="submit" class="btn btn-success"><i class="fas fa-user"></i> Editar Usuario</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+<div>
+    <a asp-action="Index">Volver a lista</a>
+</div>

@@ -1,0 +1,36 @@
+C:\Users\JANUS\Desktop\apps_net7\BlogCore\BlogCore.Models\bin\Debug\net7.0\BlogCore.Models.deps.json
+C:\Users\JANUS\Desktop\apps_net7\BlogCore\BlogCore.Models\bin\Debug\net7.0\BlogCore.Models.dll
+C:\Users\JANUS\Desktop\apps_net7\BlogCore\BlogCore.Models\bin\Debug\net7.0\BlogCore.Models.pdb
+C:\Users\JANUS\Desktop\apps_net7\BlogCore\BlogCore.Models\obj\Debug\net7.0\BlogCore.Models.csproj.AssemblyReference.cache
+C:\Users\JANUS\Desktop\apps_net7\BlogCore\BlogCore.Models\obj\Debug\net7.0\BlogCore.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JANUS\Desktop\apps_net7\BlogCore\BlogCore.Models\obj\Debug\net7.0\BlogCore.Models.AssemblyInfoInputs.cache
+C:\Users\JANUS\Desktop\apps_net7\BlogCore\BlogCore.Models\obj\Debug\net7.0\BlogCore.Models.AssemblyInfo.cs
+C:\Users\JANUS\Desktop\apps_net7\BlogCore\BlogCore.Models\obj\Debug\net7.0\BlogCore.Models.csproj.CoreCompileInputs.cache
+C:\Users\JANUS\Desktop\apps_net7\BlogCore\BlogCore.Models\obj\Debug\net7.0\BlogCore.Models.dll
+C:\Users\JANUS\Desktop\apps_net7\BlogCore\BlogCore.Models\obj\Debug\net7.0\refint\BlogCore.Models.dll
+C:\Users\JANUS\Desktop\apps_net7\BlogCore\BlogCore.Models\obj\Debug\net7.0\BlogCore.Models.pdb
+C:\Users\JANUS\Desktop\apps_net7\BlogCore\BlogCore.Models\obj\Debug\net7.0\ref\BlogCore.Models.dll
+D:\CURSOS Y TUTORIALES\Master en Asp.Net Core 3.1\Remasterizado en versión net 7\Archivos fuente .NET 7\apps_net7\BlogCore\BlogCore.Models\bin\Debug\net7.0\BlogCore.Models.deps.json
+D:\CURSOS Y TUTORIALES\Master en Asp.Net Core 3.1\Remasterizado en versión net 7\Archivos fuente .NET 7\apps_net7\BlogCore\BlogCore.Models\bin\Debug\net7.0\BlogCore.Models.dll
+D:\CURSOS Y TUTORIALES\Master en Asp.Net Core 3.1\Remasterizado en versión net 7\Archivos fuente .NET 7\apps_net7\BlogCore\BlogCore.Models\bin\Debug\net7.0\BlogCore.Models.pdb
+D:\CURSOS Y TUTORIALES\Master en Asp.Net Core 3.1\Remasterizado en versión net 7\Archivos fuente .NET 7\apps_net7\BlogCore\BlogCore.Models\obj\Debug\net7.0\BlogCore.Models.csproj.AssemblyReference.cache
+D:\CURSOS Y TUTORIALES\Master en Asp.Net Core 3.1\Remasterizado en versión net 7\Archivos fuente .NET 7\apps_net7\BlogCore\BlogCore.Models\obj\Debug\net7.0\BlogCore.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSOS Y TUTORIALES\Master en Asp.Net Core 3.1\Remasterizado en versión net 7\Archivos fuente .NET 7\apps_net7\BlogCore\BlogCore.Models\obj\Debug\net7.0\BlogCore.Models.AssemblyInfoInputs.cache
+D:\CURSOS Y TUTORIALES\Master en Asp.Net Core 3.1\Remasterizado en versión net 7\Archivos fuente .NET 7\apps_net7\BlogCore\BlogCore.Models\obj\Debug\net7.0\BlogCore.Models.AssemblyInfo.cs
+D:\CURSOS Y TUTORIALES\Master en Asp.Net Core 3.1\Remasterizado en versión net 7\Archivos fuente .NET 7\apps_net7\BlogCore\BlogCore.Models\obj\Debug\net7.0\BlogCore.Models.csproj.CoreCompileInputs.cache
+D:\CURSOS Y TUTORIALES\Master en Asp.Net Core 3.1\Remasterizado en versión net 7\Archivos fuente .NET 7\apps_net7\BlogCore\BlogCore.Models\obj\Debug\net7.0\BlogCore.Models.dll
+D:\CURSOS Y TUTORIALES\Master en Asp.Net Core 3.1\Remasterizado en versión net 7\Archivos fuente .NET 7\apps_net7\BlogCore\BlogCore.Models\obj\Debug\net7.0\refint\BlogCore.Models.dll
+D:\CURSOS Y TUTORIALES\Master en Asp.Net Core 3.1\Remasterizado en versión net 7\Archivos fuente .NET 7\apps_net7\BlogCore\BlogCore.Models\obj\Debug\net7.0\BlogCore.Models.pdb
+D:\CURSOS Y TUTORIALES\Master en Asp.Net Core 3.1\Remasterizado en versión net 7\Archivos fuente .NET 7\apps_net7\BlogCore\BlogCore.Models\obj\Debug\net7.0\ref\BlogCore.Models.dll
+D:\CURSOS Y TUTORIALES\CURSOS PROFESIONALES\Master en Asp.Net 7 - Entity Framework\Remasterizado en versión net 7\Archivos fuente .NET 7\apps_net7\BlogCore\BlogCore.Models\bin\Debug\net7.0\BlogCore.Models.deps.json
+D:\CURSOS Y TUTORIALES\CURSOS PROFESIONALES\Master en Asp.Net 7 - Entity Framework\Remasterizado en versión net 7\Archivos fuente .NET 7\apps_net7\BlogCore\BlogCore.Models\bin\Debug\net7.0\BlogCore.Models.dll
+D:\CURSOS Y TUTORIALES\CURSOS PROFESIONALES\Master en Asp.Net 7 - Entity Framework\Remasterizado en versión net 7\Archivos fuente .NET 7\apps_net7\BlogCore\BlogCore.Models\bin\Debug\net7.0\BlogCore.Models.pdb
+D:\CURSOS Y TUTORIALES\CURSOS PROFESIONALES\Master en Asp.Net 7 - Entity Framework\Remasterizado en versión net 7\Archivos fuente .NET 7\apps_net7\BlogCore\BlogCore.Models\obj\Debug\net7.0\BlogCore.Models.csproj.AssemblyReference.cache
+D:\CURSOS Y TUTORIALES\CURSOS PROFESIONALES\Master en Asp.Net 7 - Entity Framework\Remasterizado en versión net 7\Archivos fuente .NET 7\apps_net7\BlogCore\BlogCore.Models\obj\Debug\net7.0\BlogCore.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSOS Y TUTORIALES\CURSOS PROFESIONALES\Master en Asp.Net 7 - Entity Framework\Remasterizado en versión net 7\Archivos fuente .NET 7\apps_net7\BlogCore\BlogCore.Models\obj\Debug\net7.0\BlogCore.Models.AssemblyInfoInputs.cache
+D:\CURSOS Y TUTORIALES\CURSOS PROFESIONALES\Master en Asp.Net 7 - Entity Framework\Remasterizado en versión net 7\Archivos fuente .NET 7\apps_net7\BlogCore\BlogCore.Models\obj\Debug\net7.0\BlogCore.Models.AssemblyInfo.cs
+D:\CURSOS Y TUTORIALES\CURSOS PROFESIONALES\Master en Asp.Net 7 - Entity Framework\Remasterizado en versión net 7\Archivos fuente .NET 7\apps_net7\BlogCore\BlogCore.Models\obj\Debug\net7.0\BlogCore.Models.csproj.CoreCompileInputs.cache
+D:\CURSOS Y TUTORIALES\CURSOS PROFESIONALES\Master en Asp.Net 7 - Entity Framework\Remasterizado en versión net 7\Archivos fuente .NET 7\apps_net7\BlogCore\BlogCore.Models\obj\Debug\net7.0\BlogCore.Models.dll
+D:\CURSOS Y TUTORIALES\CURSOS PROFESIONALES\Master en Asp.Net 7 - Entity Framework\Remasterizado en versión net 7\Archivos fuente .NET 7\apps_net7\BlogCore\BlogCore.Models\obj\Debug\net7.0\refint\BlogCore.Models.dll
+D:\CURSOS Y TUTORIALES\CURSOS PROFESIONALES\Master en Asp.Net 7 - Entity Framework\Remasterizado en versión net 7\Archivos fuente .NET 7\apps_net7\BlogCore\BlogCore.Models\obj\Debug\net7.0\BlogCore.Models.pdb
+D:\CURSOS Y TUTORIALES\CURSOS PROFESIONALES\Master en Asp.Net 7 - Entity Framework\Remasterizado en versión net 7\Archivos fuente .NET 7\apps_net7\BlogCore\BlogCore.Models\obj\Debug\net7.0\ref\BlogCore.Models.dll

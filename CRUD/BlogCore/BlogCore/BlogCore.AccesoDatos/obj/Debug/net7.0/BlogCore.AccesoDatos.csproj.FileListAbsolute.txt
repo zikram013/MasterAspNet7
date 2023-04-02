@@ -1,0 +1,57 @@
+C:\Users\JANUS\Desktop\apps_net7\BlogCore\BlogCore.AccesoDatos\bin\Debug\net7.0\BlogCore.AccesoDatos.deps.json
+C:\Users\JANUS\Desktop\apps_net7\BlogCore\BlogCore.AccesoDatos\bin\Debug\net7.0\BlogCore.AccesoDatos.runtimeconfig.json
+C:\Users\JANUS\Desktop\apps_net7\BlogCore\BlogCore.AccesoDatos\bin\Debug\net7.0\BlogCore.AccesoDatos.dll
+C:\Users\JANUS\Desktop\apps_net7\BlogCore\BlogCore.AccesoDatos\bin\Debug\net7.0\BlogCore.AccesoDatos.pdb
+C:\Users\JANUS\Desktop\apps_net7\BlogCore\BlogCore.AccesoDatos\bin\Debug\net7.0\BlogCore.Models.dll
+C:\Users\JANUS\Desktop\apps_net7\BlogCore\BlogCore.AccesoDatos\bin\Debug\net7.0\BlogCore.Utilidades.dll
+C:\Users\JANUS\Desktop\apps_net7\BlogCore\BlogCore.AccesoDatos\bin\Debug\net7.0\BlogCore.Models.pdb
+C:\Users\JANUS\Desktop\apps_net7\BlogCore\BlogCore.AccesoDatos\bin\Debug\net7.0\BlogCore.Utilidades.pdb
+C:\Users\JANUS\Desktop\apps_net7\BlogCore\BlogCore.AccesoDatos\obj\Debug\net7.0\BlogCore.AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\JANUS\Desktop\apps_net7\BlogCore\BlogCore.AccesoDatos\obj\Debug\net7.0\BlogCore.AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JANUS\Desktop\apps_net7\BlogCore\BlogCore.AccesoDatos\obj\Debug\net7.0\BlogCore.AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\JANUS\Desktop\apps_net7\BlogCore\BlogCore.AccesoDatos\obj\Debug\net7.0\BlogCore.AccesoDatos.AssemblyInfo.cs
+C:\Users\JANUS\Desktop\apps_net7\BlogCore\BlogCore.AccesoDatos\obj\Debug\net7.0\BlogCore.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\JANUS\Desktop\apps_net7\BlogCore\BlogCore.AccesoDatos\obj\Debug\net7.0\BlogCore.AccesoDatos.csproj.CopyComplete
+C:\Users\JANUS\Desktop\apps_net7\BlogCore\BlogCore.AccesoDatos\obj\Debug\net7.0\BlogCore.AccesoDatos.dll
+C:\Users\JANUS\Desktop\apps_net7\BlogCore\BlogCore.AccesoDatos\obj\Debug\net7.0\refint\BlogCore.AccesoDatos.dll
+C:\Users\JANUS\Desktop\apps_net7\BlogCore\BlogCore.AccesoDatos\obj\Debug\net7.0\BlogCore.AccesoDatos.pdb
+C:\Users\JANUS\Desktop\apps_net7\BlogCore\BlogCore.AccesoDatos\obj\Debug\net7.0\BlogCore.AccesoDatos.genruntimeconfig.cache
+C:\Users\JANUS\Desktop\apps_net7\BlogCore\BlogCore.AccesoDatos\obj\Debug\net7.0\ref\BlogCore.AccesoDatos.dll
+D:\CURSOS Y TUTORIALES\Master en Asp.Net Core 3.1\Remasterizado en versión net 7\Archivos fuente .NET 7\apps_net7\BlogCore\BlogCore.AccesoDatos\bin\Debug\net7.0\BlogCore.AccesoDatos.deps.json
+D:\CURSOS Y TUTORIALES\Master en Asp.Net Core 3.1\Remasterizado en versión net 7\Archivos fuente .NET 7\apps_net7\BlogCore\BlogCore.AccesoDatos\bin\Debug\net7.0\BlogCore.AccesoDatos.runtimeconfig.json
+D:\CURSOS Y TUTORIALES\Master en Asp.Net Core 3.1\Remasterizado en versión net 7\Archivos fuente .NET 7\apps_net7\BlogCore\BlogCore.AccesoDatos\bin\Debug\net7.0\BlogCore.AccesoDatos.dll
+D:\CURSOS Y TUTORIALES\Master en Asp.Net Core 3.1\Remasterizado en versión net 7\Archivos fuente .NET 7\apps_net7\BlogCore\BlogCore.AccesoDatos\bin\Debug\net7.0\BlogCore.AccesoDatos.pdb
+D:\CURSOS Y TUTORIALES\Master en Asp.Net Core 3.1\Remasterizado en versión net 7\Archivos fuente .NET 7\apps_net7\BlogCore\BlogCore.AccesoDatos\bin\Debug\net7.0\BlogCore.Models.dll
+D:\CURSOS Y TUTORIALES\Master en Asp.Net Core 3.1\Remasterizado en versión net 7\Archivos fuente .NET 7\apps_net7\BlogCore\BlogCore.AccesoDatos\bin\Debug\net7.0\BlogCore.Utilidades.dll
+D:\CURSOS Y TUTORIALES\Master en Asp.Net Core 3.1\Remasterizado en versión net 7\Archivos fuente .NET 7\apps_net7\BlogCore\BlogCore.AccesoDatos\bin\Debug\net7.0\BlogCore.Models.pdb
+D:\CURSOS Y TUTORIALES\Master en Asp.Net Core 3.1\Remasterizado en versión net 7\Archivos fuente .NET 7\apps_net7\BlogCore\BlogCore.AccesoDatos\bin\Debug\net7.0\BlogCore.Utilidades.pdb
+D:\CURSOS Y TUTORIALES\Master en Asp.Net Core 3.1\Remasterizado en versión net 7\Archivos fuente .NET 7\apps_net7\BlogCore\BlogCore.AccesoDatos\obj\Debug\net7.0\BlogCore.AccesoDatos.csproj.AssemblyReference.cache
+D:\CURSOS Y TUTORIALES\Master en Asp.Net Core 3.1\Remasterizado en versión net 7\Archivos fuente .NET 7\apps_net7\BlogCore\BlogCore.AccesoDatos\obj\Debug\net7.0\BlogCore.AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSOS Y TUTORIALES\Master en Asp.Net Core 3.1\Remasterizado en versión net 7\Archivos fuente .NET 7\apps_net7\BlogCore\BlogCore.AccesoDatos\obj\Debug\net7.0\BlogCore.AccesoDatos.AssemblyInfoInputs.cache
+D:\CURSOS Y TUTORIALES\Master en Asp.Net Core 3.1\Remasterizado en versión net 7\Archivos fuente .NET 7\apps_net7\BlogCore\BlogCore.AccesoDatos\obj\Debug\net7.0\BlogCore.AccesoDatos.AssemblyInfo.cs
+D:\CURSOS Y TUTORIALES\Master en Asp.Net Core 3.1\Remasterizado en versión net 7\Archivos fuente .NET 7\apps_net7\BlogCore\BlogCore.AccesoDatos\obj\Debug\net7.0\BlogCore.AccesoDatos.csproj.CoreCompileInputs.cache
+D:\CURSOS Y TUTORIALES\Master en Asp.Net Core 3.1\Remasterizado en versión net 7\Archivos fuente .NET 7\apps_net7\BlogCore\BlogCore.AccesoDatos\obj\Debug\net7.0\BlogCore.AccesoDatos.csproj.CopyComplete
+D:\CURSOS Y TUTORIALES\Master en Asp.Net Core 3.1\Remasterizado en versión net 7\Archivos fuente .NET 7\apps_net7\BlogCore\BlogCore.AccesoDatos\obj\Debug\net7.0\BlogCore.AccesoDatos.dll
+D:\CURSOS Y TUTORIALES\Master en Asp.Net Core 3.1\Remasterizado en versión net 7\Archivos fuente .NET 7\apps_net7\BlogCore\BlogCore.AccesoDatos\obj\Debug\net7.0\refint\BlogCore.AccesoDatos.dll
+D:\CURSOS Y TUTORIALES\Master en Asp.Net Core 3.1\Remasterizado en versión net 7\Archivos fuente .NET 7\apps_net7\BlogCore\BlogCore.AccesoDatos\obj\Debug\net7.0\BlogCore.AccesoDatos.pdb
+D:\CURSOS Y TUTORIALES\Master en Asp.Net Core 3.1\Remasterizado en versión net 7\Archivos fuente .NET 7\apps_net7\BlogCore\BlogCore.AccesoDatos\obj\Debug\net7.0\BlogCore.AccesoDatos.genruntimeconfig.cache
+D:\CURSOS Y TUTORIALES\Master en Asp.Net Core 3.1\Remasterizado en versión net 7\Archivos fuente .NET 7\apps_net7\BlogCore\BlogCore.AccesoDatos\obj\Debug\net7.0\ref\BlogCore.AccesoDatos.dll
+D:\CURSOS Y TUTORIALES\CURSOS PROFESIONALES\Master en Asp.Net 7 - Entity Framework\Remasterizado en versión net 7\Archivos fuente .NET 7\apps_net7\BlogCore\BlogCore.AccesoDatos\bin\Debug\net7.0\BlogCore.AccesoDatos.deps.json
+D:\CURSOS Y TUTORIALES\CURSOS PROFESIONALES\Master en Asp.Net 7 - Entity Framework\Remasterizado en versión net 7\Archivos fuente .NET 7\apps_net7\BlogCore\BlogCore.AccesoDatos\bin\Debug\net7.0\BlogCore.AccesoDatos.runtimeconfig.json
+D:\CURSOS Y TUTORIALES\CURSOS PROFESIONALES\Master en Asp.Net 7 - Entity Framework\Remasterizado en versión net 7\Archivos fuente .NET 7\apps_net7\BlogCore\BlogCore.AccesoDatos\bin\Debug\net7.0\BlogCore.AccesoDatos.dll
+D:\CURSOS Y TUTORIALES\CURSOS PROFESIONALES\Master en Asp.Net 7 - Entity Framework\Remasterizado en versión net 7\Archivos fuente .NET 7\apps_net7\BlogCore\BlogCore.AccesoDatos\bin\Debug\net7.0\BlogCore.AccesoDatos.pdb
+D:\CURSOS Y TUTORIALES\CURSOS PROFESIONALES\Master en Asp.Net 7 - Entity Framework\Remasterizado en versión net 7\Archivos fuente .NET 7\apps_net7\BlogCore\BlogCore.AccesoDatos\bin\Debug\net7.0\BlogCore.Models.dll
+D:\CURSOS Y TUTORIALES\CURSOS PROFESIONALES\Master en Asp.Net 7 - Entity Framework\Remasterizado en versión net 7\Archivos fuente .NET 7\apps_net7\BlogCore\BlogCore.AccesoDatos\bin\Debug\net7.0\BlogCore.Utilidades.dll
+D:\CURSOS Y TUTORIALES\CURSOS PROFESIONALES\Master en Asp.Net 7 - Entity Framework\Remasterizado en versión net 7\Archivos fuente .NET 7\apps_net7\BlogCore\BlogCore.AccesoDatos\bin\Debug\net7.0\BlogCore.Models.pdb
+D:\CURSOS Y TUTORIALES\CURSOS PROFESIONALES\Master en Asp.Net 7 - Entity Framework\Remasterizado en versión net 7\Archivos fuente .NET 7\apps_net7\BlogCore\BlogCore.AccesoDatos\bin\Debug\net7.0\BlogCore.Utilidades.pdb
+D:\CURSOS Y TUTORIALES\CURSOS PROFESIONALES\Master en Asp.Net 7 - Entity Framework\Remasterizado en versión net 7\Archivos fuente .NET 7\apps_net7\BlogCore\BlogCore.AccesoDatos\obj\Debug\net7.0\BlogCore.AccesoDatos.csproj.AssemblyReference.cache
+D:\CURSOS Y TUTORIALES\CURSOS PROFESIONALES\Master en Asp.Net 7 - Entity Framework\Remasterizado en versión net 7\Archivos fuente .NET 7\apps_net7\BlogCore\BlogCore.AccesoDatos\obj\Debug\net7.0\BlogCore.AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSOS Y TUTORIALES\CURSOS PROFESIONALES\Master en Asp.Net 7 - Entity Framework\Remasterizado en versión net 7\Archivos fuente .NET 7\apps_net7\BlogCore\BlogCore.AccesoDatos\obj\Debug\net7.0\BlogCore.AccesoDatos.AssemblyInfoInputs.cache
+D:\CURSOS Y TUTORIALES\CURSOS PROFESIONALES\Master en Asp.Net 7 - Entity Framework\Remasterizado en versión net 7\Archivos fuente .NET 7\apps_net7\BlogCore\BlogCore.AccesoDatos\obj\Debug\net7.0\BlogCore.AccesoDatos.AssemblyInfo.cs
+D:\CURSOS Y TUTORIALES\CURSOS PROFESIONALES\Master en Asp.Net 7 - Entity Framework\Remasterizado en versión net 7\Archivos fuente .NET 7\apps_net7\BlogCore\BlogCore.AccesoDatos\obj\Debug\net7.0\BlogCore.AccesoDatos.csproj.CoreCompileInputs.cache
+D:\CURSOS Y TUTORIALES\CURSOS PROFESIONALES\Master en Asp.Net 7 - Entity Framework\Remasterizado en versión net 7\Archivos fuente .NET 7\apps_net7\BlogCore\BlogCore.AccesoDatos\obj\Debug\net7.0\BlogCore.AccesoDatos.csproj.CopyComplete
+D:\CURSOS Y TUTORIALES\CURSOS PROFESIONALES\Master en Asp.Net 7 - Entity Framework\Remasterizado en versión net 7\Archivos fuente .NET 7\apps_net7\BlogCore\BlogCore.AccesoDatos\obj\Debug\net7.0\BlogCore.AccesoDatos.dll
+D:\CURSOS Y TUTORIALES\CURSOS PROFESIONALES\Master en Asp.Net 7 - Entity Framework\Remasterizado en versión net 7\Archivos fuente .NET 7\apps_net7\BlogCore\BlogCore.AccesoDatos\obj\Debug\net7.0\refint\BlogCore.AccesoDatos.dll
+D:\CURSOS Y TUTORIALES\CURSOS PROFESIONALES\Master en Asp.Net 7 - Entity Framework\Remasterizado en versión net 7\Archivos fuente .NET 7\apps_net7\BlogCore\BlogCore.AccesoDatos\obj\Debug\net7.0\BlogCore.AccesoDatos.pdb
+D:\CURSOS Y TUTORIALES\CURSOS PROFESIONALES\Master en Asp.Net 7 - Entity Framework\Remasterizado en versión net 7\Archivos fuente .NET 7\apps_net7\BlogCore\BlogCore.AccesoDatos\obj\Debug\net7.0\BlogCore.AccesoDatos.genruntimeconfig.cache
+D:\CURSOS Y TUTORIALES\CURSOS PROFESIONALES\Master en Asp.Net 7 - Entity Framework\Remasterizado en versión net 7\Archivos fuente .NET 7\apps_net7\BlogCore\BlogCore.AccesoDatos\obj\Debug\net7.0\ref\BlogCore.AccesoDatos.dll

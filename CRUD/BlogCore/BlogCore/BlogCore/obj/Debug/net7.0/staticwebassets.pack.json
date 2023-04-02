@@ -1,0 +1,297 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\CURSOS Y TUTORIALES\\CURSOS PROFESIONALES\\Master en Asp.Net 7 - Entity Framework\\Remasterizado en versión net 7\\Archivos fuente .NET 7\\apps_net7\\BlogCore\\BlogCore\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\BlogCore.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BlogCore.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\CURSOS Y TUTORIALES\\CURSOS PROFESIONALES\\Master en Asp.Net 7 - Entity Framework\\Remasterizado en versión net 7\\Archivos fuente .NET 7\\apps_net7\\BlogCore\\BlogCore\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\CURSOS Y TUTORIALES\\CURSOS PROFESIONALES\\Master en Asp.Net 7 - Entity Framework\\Remasterizado en versión net 7\\Archivos fuente .NET 7\\apps_net7\\BlogCore\\BlogCore\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\CURSOS Y TUTORIALES\\CURSOS PROFESIONALES\\Master en Asp.Net 7 - Entity Framework\\Remasterizado en versión net 7\\Archivos fuente .NET 7\\apps_net7\\BlogCore\\BlogCore\\wwwroot\\imagenes\\articulos\\20567455-2a8e-4683-8155-841031c74696.png",
+      "PackagePath": "staticwebassets\\imagenes\\articulos\\20567455-2a8e-4683-8155-841031c74696.png"
+    },
+    {
+      "Id": "D:\\CURSOS Y TUTORIALES\\CURSOS PROFESIONALES\\Master en Asp.Net 7 - Entity Framework\\Remasterizado en versión net 7\\Archivos fuente .NET 7\\apps_net7\\BlogCore\\BlogCore\\wwwroot\\imagenes\\articulos\\896234d9-8466-42fe-9a98-812ebbc696ab.png",
+      "PackagePath": "staticwebassets\\imagenes\\articulos\\896234d9-8466-42fe-9a98-812ebbc696ab.png"
+    },
+    {
+      "Id": "D:\\CURSOS Y TUTORIALES\\CURSOS PROFESIONALES\\Master en Asp.Net 7 - Entity Framework\\Remasterizado en versión net 7\\Archivos fuente .NET 7\\apps_net7\\BlogCore\\BlogCore\\wwwroot\\imagenes\\sliders\\3f3282e5-2d24-4672-a633-b47eb5dbf1e8.png",
+      "PackagePath": "staticwebassets\\imagenes\\sliders\\3f3282e5-2d24-4672-a633-b47eb5dbf1e8.png"
+    },
+    {
+      "Id": "D:\\CURSOS Y TUTORIALES\\CURSOS PROFESIONALES\\Master en Asp.Net 7 - Entity Framework\\Remasterizado en versión net 7\\Archivos fuente .NET 7\\apps_net7\\BlogCore\\BlogCore\\wwwroot\\imagenes\\sliders\\5d870576-dff9-4260-943f-8ecf4d2deb94.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\sliders\\5d870576-dff9-4260-943f-8ecf4d2deb94.jpg"
+    },
+    {
+      "Id": "D:\\CURSOS Y TUTORIALES\\CURSOS PROFESIONALES\\Master en Asp.Net 7 - Entity Framework\\Remasterizado en versión net 7\\Archivos fuente .NET 7\\apps_net7\\BlogCore\\BlogCore\\wwwroot\\imagenes\\sliders\\95316be8-1480-4d73-b6b7-71b8a31cbc4d.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\sliders\\95316be8-1480-4d73-b6b7-71b8a31cbc4d.jpg"
+    },
+    {
+      "Id": "D:\\CURSOS Y TUTORIALES\\CURSOS PROFESIONALES\\Master en Asp.Net 7 - Entity Framework\\Remasterizado en versión net 7\\Archivos fuente .NET 7\\apps_net7\\BlogCore\\BlogCore\\wwwroot\\js\\articulos.js",
+      "PackagePath": "staticwebassets\\js\\articulos.js"
+    },
+    {
+      "Id": "D:\\CURSOS Y TUTORIALES\\CURSOS PROFESIONALES\\Master en Asp.Net 7 - Entity Framework\\Remasterizado en versión net 7\\Archivos fuente .NET 7\\apps_net7\\BlogCore\\BlogCore\\wwwroot\\js\\categoria.js",
+      "PackagePath": "staticwebassets\\js\\categoria.js"
+    },
+    {
+      "Id": "D:\\CURSOS Y TUTORIALES\\CURSOS PROFESIONALES\\Master en Asp.Net 7 - Entity Framework\\Remasterizado en versión net 7\\Archivos fuente .NET 7\\apps_net7\\BlogCore\\BlogCore\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\CURSOS Y TUTORIALES\\CURSOS PROFESIONALES\\Master en Asp.Net 7 - Entity Framework\\Remasterizado en versión net 7\\Archivos fuente .NET 7\\apps_net7\\BlogCore\\BlogCore\\wwwroot\\js\\slider.js",
+      "PackagePath": "staticwebassets\\js\\slider.js"
+    },
+    {
+      "Id": "D:\\CURSOS Y TUTORIALES\\CURSOS PROFESIONALES\\Master en Asp.Net 7 - Entity Framework\\Remasterizado en versión net 7\\Archivos fuente .NET 7\\apps_net7\\BlogCore\\BlogCore\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\CURSOS Y TUTORIALES\\CURSOS PROFESIONALES\\Master en Asp.Net 7 - Entity Framework\\Remasterizado en versión net 7\\Archivos fuente .NET 7\\apps_net7\\BlogCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\CURSOS Y TUTORIALES\\CURSOS PROFESIONALES\\Master en Asp.Net 7 - Entity Framework\\Remasterizado en versión net 7\\Archivos fuente .NET 7\\apps_net7\\BlogCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\CURSOS Y TUTORIALES\\CURSOS PROFESIONALES\\Master en Asp.Net 7 - Entity Framework\\Remasterizado en versión net 7\\Archivos fuente .NET 7\\apps_net7\\BlogCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\CURSOS Y TUTORIALES\\CURSOS PROFESIONALES\\Master en Asp.Net 7 - Entity Framework\\Remasterizado en versión net 7\\Archivos fuente .NET 7\\apps_net7\\BlogCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\CURSOS Y TUTORIALES\\CURSOS PROFESIONALES\\Master en Asp.Net 7 - Entity Framework\\Remasterizado en versión net 7\\Archivos fuente .NET 7\\apps_net7\\BlogCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\CURSOS Y TUTORIALES\\CURSOS PROFESIONALES\\Master en Asp.Net 7 - Entity Framework\\Remasterizado en versión net 7\\Archivos fuente .NET 7\\apps_net7\\BlogCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\CURSOS Y TUTORIALES\\CURSOS PROFESIONALES\\Master en Asp.Net 7 - Entity Framework\\Remasterizado en versión net 7\\Archivos fuente .NET 7\\apps_net7\\BlogCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\CURSOS Y TUTORIALES\\CURSOS PROFESIONALES\\Master en Asp.Net 7 - Entity Framework\\Remasterizado en versión net 7\\Archivos fuente .NET 7\\apps_net7\\BlogCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\CURSOS Y TUTORIALES\\CURSOS PROFESIONALES\\Master en Asp.Net 7 - Entity Framework\\Remasterizado en versión net 7\\Archivos fuente .NET 7\\apps_net7\\BlogCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\CURSOS Y TUTORIALES\\CURSOS PROFESIONALES\\Master en Asp.Net 7 - Entity Framework\\Remasterizado en versión net 7\\Archivos fuente .NET 7\\apps_net7\\BlogCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\CURSOS Y TUTORIALES\\CURSOS PROFESIONALES\\Master en Asp.Net 7 - Entity Framework\\Remasterizado en versión net 7\\Archivos fuente .NET 7\\apps_net7\\BlogCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\CURSOS Y TUTORIALES\\CURSOS PROFESIONALES\\Master en Asp.Net 7 - Entity Framework\\Remasterizado en versión net 7\\Archivos fuente .NET 7\\apps_net7\\BlogCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\CURSOS Y TUTORIALES\\CURSOS PROFESIONALES\\Master en Asp.Net 7 - Entity Framework\\Remasterizado en versión net 7\\Archivos fuente .NET 7\\apps_net7\\BlogCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\CURSOS Y TUTORIALES\\CURSOS PROFESIONALES\\Master en Asp.Net 7 - Entity Framework\\Remasterizado en versión net 7\\Archivos fuente .NET 7\\apps_net7\\BlogCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\CURSOS Y TUTORIALES\\CURSOS PROFESIONALES\\Master en Asp.Net 7 - Entity Framework\\Remasterizado en versión net 7\\Archivos fuente .NET 7\\apps_net7\\BlogCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\CURSOS Y TUTORIALES\\CURSOS PROFESIONALES\\Master en Asp.Net 7 - Entity Framework\\Remasterizado en versión net 7\\Archivos fuente .NET 7\\apps_net7\\BlogCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\CURSOS Y TUTORIALES\\CURSOS PROFESIONALES\\Master en Asp.Net 7 - Entity Framework\\Remasterizado en versión net 7\\Archivos fuente .NET 7\\apps_net7\\BlogCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\CURSOS Y TUTORIALES\\CURSOS PROFESIONALES\\Master en Asp.Net 7 - Entity Framework\\Remasterizado en versión net 7\\Archivos fuente .NET 7\\apps_net7\\BlogCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\CURSOS Y TUTORIALES\\CURSOS PROFESIONALES\\Master en Asp.Net 7 - Entity Framework\\Remasterizado en versión net 7\\Archivos fuente .NET 7\\apps_net7\\BlogCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\CURSOS Y TUTORIALES\\CURSOS PROFESIONALES\\Master en Asp.Net 7 - Entity Framework\\Remasterizado en versión net 7\\Archivos fuente .NET 7\\apps_net7\\BlogCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\CURSOS Y TUTORIALES\\CURSOS PROFESIONALES\\Master en Asp.Net 7 - Entity Framework\\Remasterizado en versión net 7\\Archivos fuente .NET 7\\apps_net7\\BlogCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\CURSOS Y TUTORIALES\\CURSOS PROFESIONALES\\Master en Asp.Net 7 - Entity Framework\\Remasterizado en versión net 7\\Archivos fuente .NET 7\\apps_net7\\BlogCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\CURSOS Y TUTORIALES\\CURSOS PROFESIONALES\\Master en Asp.Net 7 - Entity Framework\\Remasterizado en versión net 7\\Archivos fuente .NET 7\\apps_net7\\BlogCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\CURSOS Y TUTORIALES\\CURSOS PROFESIONALES\\Master en Asp.Net 7 - Entity Framework\\Remasterizado en versión net 7\\Archivos fuente .NET 7\\apps_net7\\BlogCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\CURSOS Y TUTORIALES\\CURSOS PROFESIONALES\\Master en Asp.Net 7 - Entity Framework\\Remasterizado en versión net 7\\Archivos fuente .NET 7\\apps_net7\\BlogCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\CURSOS Y TUTORIALES\\CURSOS PROFESIONALES\\Master en Asp.Net 7 - Entity Framework\\Remasterizado en versión net 7\\Archivos fuente .NET 7\\apps_net7\\BlogCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\CURSOS Y TUTORIALES\\CURSOS PROFESIONALES\\Master en Asp.Net 7 - Entity Framework\\Remasterizado en versión net 7\\Archivos fuente .NET 7\\apps_net7\\BlogCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\CURSOS Y TUTORIALES\\CURSOS PROFESIONALES\\Master en Asp.Net 7 - Entity Framework\\Remasterizado en versión net 7\\Archivos fuente .NET 7\\apps_net7\\BlogCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\CURSOS Y TUTORIALES\\CURSOS PROFESIONALES\\Master en Asp.Net 7 - Entity Framework\\Remasterizado en versión net 7\\Archivos fuente .NET 7\\apps_net7\\BlogCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\CURSOS Y TUTORIALES\\CURSOS PROFESIONALES\\Master en Asp.Net 7 - Entity Framework\\Remasterizado en versión net 7\\Archivos fuente .NET 7\\apps_net7\\BlogCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\CURSOS Y TUTORIALES\\CURSOS PROFESIONALES\\Master en Asp.Net 7 - Entity Framework\\Remasterizado en versión net 7\\Archivos fuente .NET 7\\apps_net7\\BlogCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\CURSOS Y TUTORIALES\\CURSOS PROFESIONALES\\Master en Asp.Net 7 - Entity Framework\\Remasterizado en versión net 7\\Archivos fuente .NET 7\\apps_net7\\BlogCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\CURSOS Y TUTORIALES\\CURSOS PROFESIONALES\\Master en Asp.Net 7 - Entity Framework\\Remasterizado en versión net 7\\Archivos fuente .NET 7\\apps_net7\\BlogCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\CURSOS Y TUTORIALES\\CURSOS PROFESIONALES\\Master en Asp.Net 7 - Entity Framework\\Remasterizado en versión net 7\\Archivos fuente .NET 7\\apps_net7\\BlogCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\CURSOS Y TUTORIALES\\CURSOS PROFESIONALES\\Master en Asp.Net 7 - Entity Framework\\Remasterizado en versión net 7\\Archivos fuente .NET 7\\apps_net7\\BlogCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\CURSOS Y TUTORIALES\\CURSOS PROFESIONALES\\Master en Asp.Net 7 - Entity Framework\\Remasterizado en versión net 7\\Archivos fuente .NET 7\\apps_net7\\BlogCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\CURSOS Y TUTORIALES\\CURSOS PROFESIONALES\\Master en Asp.Net 7 - Entity Framework\\Remasterizado en versión net 7\\Archivos fuente .NET 7\\apps_net7\\BlogCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\CURSOS Y TUTORIALES\\CURSOS PROFESIONALES\\Master en Asp.Net 7 - Entity Framework\\Remasterizado en versión net 7\\Archivos fuente .NET 7\\apps_net7\\BlogCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\CURSOS Y TUTORIALES\\CURSOS PROFESIONALES\\Master en Asp.Net 7 - Entity Framework\\Remasterizado en versión net 7\\Archivos fuente .NET 7\\apps_net7\\BlogCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\CURSOS Y TUTORIALES\\CURSOS PROFESIONALES\\Master en Asp.Net 7 - Entity Framework\\Remasterizado en versión net 7\\Archivos fuente .NET 7\\apps_net7\\BlogCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\CURSOS Y TUTORIALES\\CURSOS PROFESIONALES\\Master en Asp.Net 7 - Entity Framework\\Remasterizado en versión net 7\\Archivos fuente .NET 7\\apps_net7\\BlogCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\CURSOS Y TUTORIALES\\CURSOS PROFESIONALES\\Master en Asp.Net 7 - Entity Framework\\Remasterizado en versión net 7\\Archivos fuente .NET 7\\apps_net7\\BlogCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\CURSOS Y TUTORIALES\\CURSOS PROFESIONALES\\Master en Asp.Net 7 - Entity Framework\\Remasterizado en versión net 7\\Archivos fuente .NET 7\\apps_net7\\BlogCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\CURSOS Y TUTORIALES\\CURSOS PROFESIONALES\\Master en Asp.Net 7 - Entity Framework\\Remasterizado en versión net 7\\Archivos fuente .NET 7\\apps_net7\\BlogCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\CURSOS Y TUTORIALES\\CURSOS PROFESIONALES\\Master en Asp.Net 7 - Entity Framework\\Remasterizado en versión net 7\\Archivos fuente .NET 7\\apps_net7\\BlogCore\\BlogCore\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\CURSOS Y TUTORIALES\\CURSOS PROFESIONALES\\Master en Asp.Net 7 - Entity Framework\\Remasterizado en versión net 7\\Archivos fuente .NET 7\\apps_net7\\BlogCore\\BlogCore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\CURSOS Y TUTORIALES\\CURSOS PROFESIONALES\\Master en Asp.Net 7 - Entity Framework\\Remasterizado en versión net 7\\Archivos fuente .NET 7\\apps_net7\\BlogCore\\BlogCore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\CURSOS Y TUTORIALES\\CURSOS PROFESIONALES\\Master en Asp.Net 7 - Entity Framework\\Remasterizado en versión net 7\\Archivos fuente .NET 7\\apps_net7\\BlogCore\\BlogCore\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\CURSOS Y TUTORIALES\\CURSOS PROFESIONALES\\Master en Asp.Net 7 - Entity Framework\\Remasterizado en versión net 7\\Archivos fuente .NET 7\\apps_net7\\BlogCore\\BlogCore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\CURSOS Y TUTORIALES\\CURSOS PROFESIONALES\\Master en Asp.Net 7 - Entity Framework\\Remasterizado en versión net 7\\Archivos fuente .NET 7\\apps_net7\\BlogCore\\BlogCore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\CURSOS Y TUTORIALES\\CURSOS PROFESIONALES\\Master en Asp.Net 7 - Entity Framework\\Remasterizado en versión net 7\\Archivos fuente .NET 7\\apps_net7\\BlogCore\\BlogCore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\CURSOS Y TUTORIALES\\CURSOS PROFESIONALES\\Master en Asp.Net 7 - Entity Framework\\Remasterizado en versión net 7\\Archivos fuente .NET 7\\apps_net7\\BlogCore\\BlogCore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\CURSOS Y TUTORIALES\\CURSOS PROFESIONALES\\Master en Asp.Net 7 - Entity Framework\\Remasterizado en versión net 7\\Archivos fuente .NET 7\\apps_net7\\BlogCore\\BlogCore\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\CURSOS Y TUTORIALES\\CURSOS PROFESIONALES\\Master en Asp.Net 7 - Entity Framework\\Remasterizado en versión net 7\\Archivos fuente .NET 7\\apps_net7\\BlogCore\\BlogCore\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\CURSOS Y TUTORIALES\\CURSOS PROFESIONALES\\Master en Asp.Net 7 - Entity Framework\\Remasterizado en versión net 7\\Archivos fuente .NET 7\\apps_net7\\BlogCore\\BlogCore\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\CURSOS Y TUTORIALES\\CURSOS PROFESIONALES\\Master en Asp.Net 7 - Entity Framework\\Remasterizado en versión net 7\\Archivos fuente .NET 7\\apps_net7\\BlogCore\\BlogCore\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.BlogCore.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.BlogCore.props",
+      "PackagePath": "build\\BlogCore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.BlogCore.props",
+      "PackagePath": "buildMultiTargeting\\BlogCore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.BlogCore.props",
+      "PackagePath": "buildTransitive\\BlogCore.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
